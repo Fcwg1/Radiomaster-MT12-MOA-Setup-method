@@ -24,5 +24,6 @@ This setup method will configure your Radiomaster MT12 remote control to be suit
 ![Project Screenshot](image/IMG20251202155520.jpg)
 
 ### At this point, your S2 knob will play a corresponding beep when it returns to the center position.
+### Regarding the S1 knob, you can also set it to the rear axle servo in the 4WS.
 
 ### For more interesting content, please visit my [Facebook](https://www.facebook.com/rcchaorenwei)
